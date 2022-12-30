@@ -192,14 +192,7 @@
     }
   },
   "Item": {
-    "types": [
-      "discipline",
-      "ritual",
-      "rote",
-      "sphere"
-    ],
-    "templates": {
-
-    }
+    "types": ["discipline", "ritual", "rote", "sphere"],
+    "templates": {}
   }
 }
