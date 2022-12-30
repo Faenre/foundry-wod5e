@@ -1,0 +1,29 @@
+{
+  "name": "wod5e",
+  "title": "World of Darkness 5e",
+  "description": "World of Darkness 5e system for Foundry VTT",
+  "version": "0.0.1",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "templateVersion": 4,
+  "author": "Nicole => #Faenre3434",
+  "esmodules": ["module/main.js"],
+  "styles": ["css/wod5e.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "",
+  "secondaryTokenAttribute": "",
+  "url": "https://github.com/Faenre/foundry-wod5e",
+  "manifest": "https://raw.githubusercontent.com/Faenre/foundry-wod5e/main/system.json",
+  "download": "https://github.com/Faenre/foundry-wod5e/archive/refs/heads/main.zip",
+  "license": "LICENSE"
+}

@@ -1,0 +1,205 @@
+{
+  "Actor": {
+    "types": [
+      "npc",
+      "human",
+      "ghoul",
+      "vampire",
+      "hunter",
+      "sorcerer",
+      "mage",
+      "coterie",
+      "cabal"
+    ],
+    "templates": {
+      "attributes-full": {
+        "strength": {
+          "value": 1
+        },
+        "dexterity": {
+          "value": 1
+        },
+        "stamina": {
+          "value": 1
+        },
+        "charisma": {
+          "value": 1
+        },
+        "manipulation": {
+          "value": 1
+        },
+        "composure": {
+          "value": 1
+        },
+        "intelligence": {
+          "value": 1
+        },
+        "wits": {
+          "value": 1
+        },
+        "resolve": {
+          "value": 1
+        }
+      },
+      "attributes-simple": {
+        "physical": {
+          "value": 1
+        },
+        "social": {
+          "value": 1
+        },
+        "mental": {
+          "value": 1
+        }
+      },
+      "skills-full": [
+        {
+          "name": "athletics",
+          "category": "physical",
+          "value": 0
+        },
+        {
+          "name": "brawl",
+          "category": "physical",
+          "value": 0
+        },
+        {
+          "name": "craft",
+          "category": "physical",
+          "value": 0
+        },
+        {
+          "name": "drive",
+          "category": "physical",
+          "value": 0
+        },
+        {
+          "name": "firearms",
+          "category": "physical",
+          "value": 0
+        },
+        {
+          "name": "melee",
+          "category": "physical",
+          "value": 0
+        },
+        {
+          "name": "larceny",
+          "category": "physical",
+          "value": 0
+        },
+        {
+          "name": "stealth",
+          "category": "physical",
+          "value": 0
+        },
+        {
+          "name": "survival",
+          "category": "physical",
+          "value": 0
+        },
+        {
+          "name": "animal_ken",
+          "category": "social",
+          "value": 0
+        },
+        {
+          "name": "etiquette",
+          "category": "social",
+          "value": 0
+        },
+        {
+          "name": "insight",
+          "category": "social",
+          "value": 0
+        },
+        {
+          "name": "intimidation",
+          "category": "social",
+          "value": 0
+        },
+        {
+          "name": "leadership",
+          "category": "social",
+          "value": 0
+        },
+        {
+          "name": "performance",
+          "category": "social",
+          "value": 0
+        },
+        {
+          "name": "persuasion",
+          "category": "social",
+          "value": 0
+        },
+        {
+          "name": "streetwise",
+          "category": "social",
+          "value": 0
+        },
+        {
+          "name": "subterfuge",
+          "category": "social",
+          "value": 0
+        },
+        {
+          "name": "academics",
+          "category": "mental",
+          "value": 0
+        },
+        {
+          "name": "awareness",
+          "category": "mental",
+          "value": 0
+        },
+        {
+          "name": "finance",
+          "category": "mental",
+          "value": 0
+        },
+        {
+          "name": "investigation",
+          "category": "mental",
+          "value": 0
+        },
+        {
+          "name": "medicine",
+          "category": "mental",
+          "value": 0
+        },
+        {
+          "name": "occult",
+          "category": "mental",
+          "value": 0
+        },
+        {
+          "name": "politics",
+          "category": "mental",
+          "value": 0
+        },
+        {
+          "name": "science",
+          "category": "mental",
+          "value": 0
+        },
+        {
+          "name": "technology",
+          "category": "mental",
+          "value": 0
+        }
+      ]
+    }
+  },
+  "Item": {
+    "types": [
+      "discipline",
+      "ritual",
+      "rote",
+      "sphere"
+    ],
+    "templates": {
+
+    }
+  }
+}
